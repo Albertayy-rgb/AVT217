@@ -13,7 +13,7 @@
 
 <body>
 
-<img src="Persona 5 100&.jpg">
+<img src="Persona 5 100%.jpg">
 		
 </br>
 		
@@ -22,7 +22,7 @@
 <h1>Image sizes</h1>
 
 
-Asian
+CPVC Pipes
 
 Original = 14.7 KB</br></br>
 
