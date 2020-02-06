@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>24-1 Alberto Montalvo using my own pictures</title>
+
+</head>
+
+<body>
+
+<img src="Persona 5 100%.png">
+		
+</br>
+		
+<img src="cpvc100%.jpg">
+
+<h1>Image sizes</h1>
+
+
+Persona 5
+
+Original = 501.7 KB</br>
+
+JPEG 100 = 785.4 KB</br>
+JPEG 60 = 300 KB</br>
+JPEG 10 = 112.8 KB</br>
+
+PNG 24 = 501.7 KB</br>
+PNG 8 = 168.7 KB</br>
+
+
+CPVC Pipes</br>
+
+Original = 65.7 KB</br>
+
+JPEG 100 = 189.8 KB</br>
+JPEG 60 = 76.4 KB</br>
+JPEG 10 = 28.3 KB</br>
+
+PNG 24 = 605 KB</br>
+PNG 8 = 299.3 KB</br>
+</body>
+</html>
