@@ -6,7 +6,7 @@
 
 <body>
 
-<img src="Mobile_Project1.png" alt="Design for Mobile">
+<img src="Mobile_project1.png" alt="Design for Mobile">
 <img src="Desktop_Project1.png" alt="Design for Desktop">
 
 </body>
