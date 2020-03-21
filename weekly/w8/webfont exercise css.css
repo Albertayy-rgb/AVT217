@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: 'open_sanslight';
+    src: 
+         url('OpenSans-Light-webfont.woff') format('woff');
+        
+	font-weight: normal;
+    font-style: normal;
+	
+}
+
+@font-face {
+	font-family: 'introheadr-base';
+    src: 
+         url('introheadr-base-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+	font-family: 'open_sanslight'; 
+}
+
+h2 {
+	font-family: 'introheadr-base';
+}
+
+h3 {
+	font-family: 'Baloo 2', cursive;
+	font-weight: 400;
+}
+h4 {
+	font-family: 'Baloo 2', cursive;
+	font-weight: 700;
+}
+p {
+	font-family: 'Montserrat', sans-serif;	
+}
